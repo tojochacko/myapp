@@ -5,6 +5,7 @@ css/install-button.css
 css/./lib/bootstrap/css/bootstrap.min.css
 css/./lib/bblocks/style/status.css
 css/./lib/bblocks/style/input_areas.css
+css/./lib/bblocks/style/headers.css
 css/app.css
 
 css/install-button.css
