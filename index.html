@@ -12,18 +12,23 @@
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
+    <form>
+      <p>
+      <input placeholder="Name" required="" type="text">
+      <button type="reset">Clear</button>
+      </p>
+      <p>
+      <textarea placeholder="Address" required=""></textarea>
+      </p>
+      <p>
+      <button class="btn">Submit</button>
+      </p>
+    </form>
+
     <section role="status">
-        <p>The Alarm is set for <strong>7 hours</strong> and <strong>14 minutes</strong> from now</p>
+        <p>This is a test status bar</p>
     </section>
 
-    <blockquote>
-    <p>
-      Welcome to my awesome web app. This was created from the
-      <a href="https://github.com/mozilla/mortar-app-stub">mortar-app-stub</a>
-      template, one of the
-      <a href="https://github.com/mozilla/mortar">mortar templates</a>.
-    </p>
-    </blockquote>
     <!-- Using require.js, a module system for javascript, include the
          js files. This loads "main.js", which in turn can load other
          files, all handled by require.js:
