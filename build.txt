@@ -1,12 +1,19 @@
 
 css/app.css
 ----------------
-css/install-button.css
 css/app.css
 
 css/install-button.css
 ----------------
 css/install-button.css
+
+css/lib/bootstrap.min.css
+----------------
+css/lib/bootstrap.min.css
+
+css/lib/status.css
+----------------
+css/lib/status.css
 
 js/lib/../app.js
 ----------------
