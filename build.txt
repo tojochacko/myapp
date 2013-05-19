@@ -79,7 +79,6 @@ css/lib/bootstrap/css/bootstrap.min.css
 js/lib/../app.js
 ----------------
 js/lib/zepto.js
-js/lib/receiptverifier.js
 js/lib/install.js
 js/lib/../install-button.js
 js/lib/../app.js
