@@ -18,13 +18,13 @@
         <h1>Fill this form</h1>
       </header>
       <header>
-      <form action='javascript:submitForm()'>
+      <form action="#" onsubmit='return submitForm(event, this);'>
         <p>
-        <input placeholder="Name" required="" type="text">
-        <button type="reset">Clear</button>
+        <input name="name" placeholder="Name" required="" type="text">
+        <!--<button type="reset">Clear</button>-->
         </p>
         <p>
-        <textarea placeholder="Address" required=""></textarea>
+        <textarea name="address" placeholder="Address" required=""></textarea>
         </p>
         <p>
         <button class="btn">Submit</button>
